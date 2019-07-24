@@ -1,9 +1,9 @@
 # liri-node-app
 
 
-Using spotify-this-song in node to search for a song using spotify's api:
+Using spotify-this-song in node to search for a song using spotify's api.  Limited it to 3 responses:
 
-https://i.imgur.com/oZEmZzX.png
+https://i.imgur.com/NFkGW0a.png
 
 Using concert-this in node to search for upcoming concerts for a band using bandsintown:
 
